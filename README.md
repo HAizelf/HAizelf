@@ -6,7 +6,7 @@ Software engineer building AI products end to end — mobile apps, backend servi
 
 ### Things I've made
 
-- **[Gym Receptionist](https://github.com/HAizelf/Gym-Receptionist)** — real-time *Hinglish* voice agent (LiveKit Agents, Sarvam Saaras/Bulbul v3, GPT-4.1-mini function calling). SIP + WebRTC, with demo video.
+- **[Gym Receptionist](https://github.com/HAizelf/Gym-Receptionist-Voice-Agent)** — real-time *Hinglish* voice agent (LiveKit Agents, Sarvam Saaras/Bulbul v3, GPT-4.1-mini function calling). SIP + WebRTC, with demo video.
 - **[Root-cause analysis](https://github.com/livekit/deploy-action/issues/41#issuecomment-4915278256)** of a CI/CD bug in LiveKit's official deploy action — traced from Go source, confirmed the pending fix.
 - RAG chatbots serving **5K+ daily queries** for government services, and Indic-language voice interfaces (Whisper, IndicTrans2) — iHub Anubhuti, IIIT Delhi.
 
